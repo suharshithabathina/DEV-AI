@@ -1,0 +1,9 @@
+{
+  "appId": "com.devai.productivity",
+  "appName": "DevAI Productivity",
+  "webDir": "dist/client",
+  "server": {
+    "url": "http://172.20.10.4:8082",
+    "cleartext": true
+  }
+}

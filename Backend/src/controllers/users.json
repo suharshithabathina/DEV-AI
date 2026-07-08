@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mock-user-1783518155812",
+    "name": "Nikhila",
+    "email": "nikhila@gmail.com",
+    "password": "password123"
+  },
+  {
+    "id": "mock-user-1783518280387",
+    "name": "nikhi",
+    "email": "nikhilareddy011205@gmail.com",
+    "password": "asdfghjkl"
+  }
+]
