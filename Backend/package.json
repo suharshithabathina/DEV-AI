@@ -8,7 +8,8 @@
     "dev": "nodemon src/server.ts",
     "build": "tsc",
     "lint": "eslint src/**/*.ts",
-    "e2e": "node run_e2e.js"
+    "e2e": "node run_e2e.js",
+    "e2e:real": "node run_e2e_real.js"
   },
   "dependencies": {
     "@google/genai": "^2.8.0",
